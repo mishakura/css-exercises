@@ -1,0 +1,18 @@
+.odds {
+   background-color: lightpink;
+   font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+.number3{
+    font-size: 24px;
+}
+#number2 {
+    color:blue;
+    font-size: 36px; 
+
+}
+
+#number4 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
